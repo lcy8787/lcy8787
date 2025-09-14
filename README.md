@@ -27,16 +27,16 @@
 ## 📊 GitHub Stats
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=你的GitHub帳號&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub帳號&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=你的GitHub帳號&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lcy8787&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcy8787&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=lcy8787&theme=radical)  
 
 </div>
 
 ---
 
 ## 🐍 Contribution Snake
-![snake gif](https://github.com/你的GitHub帳號/你的GitHub帳號/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/lcy8787/lcy8787/blob/output/github-contribution-grid-snake.gif)
 
 ---
 
