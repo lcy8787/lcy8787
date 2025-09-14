@@ -35,10 +35,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-![snake gif](https://github.com/lcy8787/lcy8787/blob/output/github-contribution-grid-snake.gif)
-
----
 
 ## 🌟 Fun Quote
 > "Code is like humor. When you have to explain it, it’s bad." 😎
