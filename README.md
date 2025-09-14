@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Lcy!
+# 👋 Hi there, I'm Lcyy!
 
 <!-- 打字機動畫 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F772F7&center=true&vCenter=true&width=800&lines=Python+🐍;HTML+%26+JavaScript+✨;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me
-- 🇭🇰 Hong Kong Students
+- 💻 HK Student
 - 🐍 Python enthusiast  
 - 🌐 Beginner in HTML & JavaScript  
 - 💡 Love learning new tech and building fun projects  
@@ -37,7 +37,6 @@
 
 ## 🐍 Contribution Snake
 ![snake gif](https://github.com/lcy8787/lcy8787/blob/output/github-contribution-grid-snake.gif)
-
 
 ---
 
