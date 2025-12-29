@@ -80,9 +80,7 @@ I am developing a comprehensive project that combines backend logic with a front
 
 <!-- 底部 Streak 統計 -->
 <div align="center">
-  <!-- 替換掉掛掉的 Streak，改用 Metrics 的活躍日曆 (Isocalendar) -->
-  <!-- 這裡設定顯示最近半年 (half-year) 的活躍度 -->
-  <img src="https://metrics.lecoq.io/lcy8787?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FHong_Kong" width="100%"/>
+  <img src="https://github.com/lcy8787/lcy8787/raw/output/snake.svg" width="100%" />
 </div>
 
 <div align="center">
