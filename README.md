@@ -80,7 +80,7 @@ I am developing a comprehensive project that combines backend logic with a front
 
 <!-- 底部 Streak 統計 -->
 <div align="center">
-  <img src="https://github.com/lcy8787/lcy8787/raw/output/snake.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/lcy8787/lcy8787/output/snake.svg" alt="Snake animation" width="100%" />
 </div>
 
 <div align="center">
