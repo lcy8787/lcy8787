@@ -80,7 +80,9 @@ I am developing a comprehensive project that combines backend logic with a front
 
 <!-- 底部 Streak 統計 -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/lcy8787/lcy8787/output/snake.svg" alt="Snake animation" width="100%" />
+  <br>
+  <!-- 貪吃蛇動畫：使用了正確的長檔名 -->
+  <img src="https://raw.githubusercontent.com/lcy8787/lcy8787/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
 </div>
 
 <div align="center">
