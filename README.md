@@ -42,10 +42,10 @@ While my public repositories might seem quiet, my terminal is always busy. I bel
 
 <!-- 記得去設定開啟 "Include private contributions" -->
 <div align="center">
-  <!-- 移除 include_all_commits 參數，改用較穩定的 dark 主題測試 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=lcy8787&show_icons=true&theme=dark&hide_border=true&count_private=true" width="100%"/>
+  <!-- 使用備用伺服器 eight-theta 修復 503 錯誤 -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=lcy8787&show_icons=true&theme=dark&hide_border=true&count_private=true" width="100%"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcy8787&layout=compact&theme=dark&hide_border=true&card_width=100%" width="100%"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lcy8787&layout=compact&theme=dark&hide_border=true&card_width=100%" width="100%"/>
 </div>
 
    </td>
@@ -80,7 +80,9 @@ I am developing a comprehensive project that combines backend logic with a front
 
 <!-- 底部 Streak 統計 -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=lcy8787&theme=midnight-dusk&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000" alt="GitHub Streak" />
+  <!-- 替換掉掛掉的 Streak，改用 Metrics 的活躍日曆 (Isocalendar) -->
+  <!-- 這裡設定顯示最近半年 (half-year) 的活躍度 -->
+  <img src="https://metrics.lecoq.io/lcy8787?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FHong_Kong" width="100%"/>
 </div>
 
 <div align="center">
