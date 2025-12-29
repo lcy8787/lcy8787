@@ -42,9 +42,10 @@ While my public repositories might seem quiet, my terminal is always busy. I bel
 
 <!-- 記得去設定開啟 "Include private contributions" -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lcy8787&show_icons=true&theme=midnight-dusk&hide_border=true&count_private=true&include_all_commits=true" width="100%"/>
+  <!-- 移除 include_all_commits 參數，改用較穩定的 dark 主題測試 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=lcy8787&show_icons=true&theme=dark&hide_border=true&count_private=true" width="100%"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcy8787&layout=compact&theme=midnight-dusk&hide_border=true&card_width=100%" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcy8787&layout=compact&theme=dark&hide_border=true&card_width=100%" width="100%"/>
 </div>
 
    </td>
@@ -85,5 +86,6 @@ I am developing a comprehensive project that combines backend logic with a front
 <div align="center">
   <br>
   <sub>Visitor Count</sub><br>
-  <img src="https://profile-counter.glitch.me/lcy8787/count.svg" alt="visitor badge"/>
+  <img src="https://komarev.com/ghpvc/?username=lcy8787&style=flat-square&color=blue" alt="visitor badge"/>
 </div>
+
