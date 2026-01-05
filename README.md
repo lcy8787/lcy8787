@@ -26,7 +26,7 @@ While my public repositories might seem quiet, my terminal is always busy. I bel
 - 🔭 **Current Focus**: Building a Discord Bot and its official website.
 - 🌱 **Learning**: Advanced Python & Static Web Design.
 - 💬 **Philosophy**: *"Code is like humor. When you have to explain it, it’s bad."*
-- 📫 **Contact**: <a href="mailto:lcy@lcylcy.com">lcy@lcylcy.com</a>
+
 
 ### 🛠️ Tech Stack & Tools
 <div align="left">
