@@ -1,9 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:303030,100:000000&height=220&section=header&text=Lcyy.&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=HK%20Student%20%7C%20Python%20Developer%20%7C%20Private%20Contributor&descAlignY=55&descAlign=60" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:303030,100:000000&height=220&section=header&text=Lcyy.&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=HK%20Student%20%7C%20Python%20Developer%20%7C%20Private%20Contributor&descAlignY=55&descAlign=60" width="80%"/>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=23D18B&center=true&vCenter=true&width=500&lines=Python+%7C+Web+%7C+Discord+Bots;HK+Student+%7C+Private+Developer;Always+Coding+in+the+Shadows" alt="Typing SVG" />
-  </a>
+  
 </div>
 
 <br>
@@ -17,8 +15,8 @@
 
 ### GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=lcy8787&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lcy8787&layout=compact&theme=dark&hide_border=true&card_width=100%" width="48%"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=lcy8787&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" width="54%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lcy8787&theme=dark&hide_border=true" width="44%"/>
 </div>
 
 ---
