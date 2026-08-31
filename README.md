@@ -10,12 +10,12 @@
 
 ### Tech Stack
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,js,css,vscode,git,github,idea,linux&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,html,js,css,vscode,git,github,idea,linux&perline=9" />
 </div>
 
 ### GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=lcy8787&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" width="54%"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=lcy8787&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" width="44%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lcy8787&theme=dark&hide_border=true" width="44%"/>
 </div>
 
